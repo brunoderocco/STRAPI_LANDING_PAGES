@@ -30,10 +30,6 @@
       "repeatable": false,
       "component": "section.section-metadata",
       "required": true
-    },
-    "rodape": {
-      "type": "richtext",
-      "required": true
     }
   }
 }
